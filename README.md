@@ -14,6 +14,7 @@ For the analysis a Random Forest Classifier has been chosen. The main reasons we
 - Multiple distinct leaver clusters and U-shaped patterns were found across several variables - Random Forest handles these kinds of patterns well.
 - Random Forest provides feature importance scores, which helps understand what drives turnover.
 - Random Forest handles the class imbalance (83/17) using class_weight='balanced'.
+
 The final version of the model had the following scores: **F1** for leavers - **0.93**, **ROC-AUC** - **0.981**. The confusion matrix showed that on the test data the model correctly identified **368 out of 398** actual leavers and only **29** employees were flagged incorrectly as being at risk.
 ## Recommendations
 - **Satisfaction levels** should be closely monitored - especially among employees with high workloads and 5-7 projects.
