@@ -2,7 +2,7 @@
 ## Overview
 Salifort Motors is experiencing high employee turnover. This project analyses HR data to identify the key drivers of turnover, and to find a way to identify employees at risk. This would help HR take proactive action to improve retention.
 ## Data
-HR dataset was provided as part of the Google Advanced Data Analytics certificate program. It contains 14,999 employee records with 10 features.
+HR dataset was provided as part of the Google Advanced Data Analytics certificate program. It contains 14,999 employee records with 10 features. he dataset is available on [Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv). Download and place in the root folder.
 ## Key findings
 - Satisfaction level is the primary predictor of turnover. Leavers reported significantly lower satisfaction (0.44 vs 0.67).
 - Three distinct employee archetypes were identified. The first one consists of underperformers with low satisfaction and low workload - disengaged and mentally checked out employees. The second group represents high performers with heavy workloads and low satisfaction - employees who have burned out. The third, least visible, group shows high performers with high satisfaction despite heavy workloads, potentially leaving due to better external opportunities or undetected dissatisfaction.
