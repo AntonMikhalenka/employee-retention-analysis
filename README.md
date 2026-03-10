@@ -27,4 +27,4 @@ Python, pandas, numpy, matplotlib, seaborn, scikit-learn
 ## How to run
 - Clone repo
 - Install dependencies: pip install -r requirements.txt
-- Open and run notebook/salifort_analysis.ipynb
+- Open and run notebook/salifort_motors_analysis.ipynb
